@@ -1,0 +1,38 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <CoffeeScriptCodeStyleSettings version="0">
+      <option name="SPACE_WITHIN_INDEX_BRACKETS" value="true" />
+    </CoffeeScriptCodeStyleSettings>
+    <Python>
+      <option name="SPACE_WITHIN_BRACES" value="true" />
+      <option name="SPACE_BEFORE_LBRACKET" value="true" />
+      <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
+      <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
+    </Python>
+    <codeStyleSettings language="CoffeeScript">
+      <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+      <indentOptions>
+        <option name="TAB_SIZE" value="4" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="EditorConfig">
+      <option name="SPACE_BEFORE_COLON" value="true" />
+      <option name="SPACE_AFTER_COLON" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Python">
+      <option name="SPACE_AFTER_COMMA" value="false" />
+      <option name="SPACE_BEFORE_COMMA" value="true" />
+      <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_EMPTY_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_EMPTY_METHOD_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_BRACKETS" value="true" />
+      <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
